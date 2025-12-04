@@ -3,7 +3,8 @@ One-click solution for Revit to import Excel tables.
 
 ## Excel
 ### Lighting Schedule
-<img src="/images/Excel Lighting Schedule.png" width="1000">
+![](/images/Excel Lighting Schedule.png)
+//<img src="/images/Excel Lighting Schedule.png" width="1500">
 
 ## Revit
 ### Dynamo (Visual Python)
